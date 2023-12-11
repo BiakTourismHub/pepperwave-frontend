@@ -1,0 +1,27 @@
+.style-select2{
+    border:1px solid green;
+    height:80px;
+}
+
+.destinasi h3{
+    font-size:18px;
+    padding:10px 0px;
+    font-weight:bold;
+}
+
+.destinasi p {
+    font-size:12px;
+    text-align:justify;
+}
+
+.destinasi-book h3{
+    font-size:18px;
+    padding:10px 0px;
+    font-weight:bold;
+}
+
+.destinasi-book p {
+    font-size:12px;
+    text-align:justify;
+}
+
